@@ -1,0 +1,23 @@
+commit 3fbfd73ff3018e08cfc5b81f9f907f0f9e3ddccd
+Author: achoudhari97 <achoudhari@alveotech.com>
+Date:   Mon Feb 5 11:18:07 2024 +0530
+
+    Added .env to .gitignore
+
+commit da4f1836c32781c8ae758d29eba1132bdc62d1ef
+Author: achoudhari97 <achoudhari@alveotech.com>
+Date:   Mon Feb 5 11:08:48 2024 +0530
+
+    Added gitignore
+
+commit bfa1451bbb8aecf76d3b99f9b52420c89a39578d
+Author: achoudhari97 <achoudhari@alveotech.com>
+Date:   Sun Feb 4 22:53:00 2024 +0530
+
+    added two files
+
+commit e805fb2f4d77bfacdb60417ca592432c6140a40f
+Author: achoudhari97 <achoudhari@alveotech.com>
+Date:   Sun Feb 4 22:49:32 2024 +0530
+
+    added readme.txt
